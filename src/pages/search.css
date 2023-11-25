@@ -1,0 +1,14 @@
+.nav-button{
+    text-decoration: none;
+    margin: 20px;
+    color: whitesmoke;
+}
+
+.nav-button:hover{
+    color: grey;
+}
+
+.nav-title{
+    font-size: calc(4vh + 2px);
+    color: azure;
+}
